@@ -18,7 +18,10 @@ Dashboard interativo para visualização e análise de dados de partidas de fute
 
 ## 🚀 Demo
 
-Você pode acessar uma demonstração do aplicativo [aqui](https://seu-link-deploy.streamlit.app).
+Você pode acessar uma demonstração do aplicativo [aqui](https://fooftball.streamlit.app/).
+
+
+
 
 
 
