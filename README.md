@@ -20,9 +20,6 @@ Dashboard interativo para visualização e análise de dados de partidas de fute
 
 Você pode acessar uma demonstração do aplicativo [aqui](https://seu-link-deploy.streamlit.app).
 
-## 🛠️ Instalação
 
-1. **Clone** este repositório:
 
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+
